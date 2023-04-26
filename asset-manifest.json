@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redmindtask/static/css/main.e6c13ad2.css",
+    "main.js": "/redmindtask/static/js/main.018236b4.js",
+    "index.html": "/redmindtask/index.html",
+    "main.e6c13ad2.css.map": "/redmindtask/static/css/main.e6c13ad2.css.map",
+    "main.018236b4.js.map": "/redmindtask/static/js/main.018236b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.018236b4.js"
+  ]
+}
